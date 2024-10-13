@@ -34,6 +34,7 @@ The dataset is preprocessed to handle missing values and class imbalances.
 ## Installation
 To set up the environment for this project, follow these steps:
 
+## Usage
 1. Install the required packages
 2. Load the dataset
 3. Preprocess the data (cleaning, encoding, etc.) as described in the code.
